@@ -4,19 +4,19 @@ const fs = require('fs')
 const { color } = require('./lib/myfunc')
 
 //owner
-global.owner = '2347043759577'
-global.nomerowner = ["2347043759577"]
+global.owner = '51978194933'
+global.nomerowner = ["51978194933"]
 
 // Apikey 
 
-global.skizo = 'David Cyril'
-global.casterix = 'DeeCeeXxx'
+global.skizo = '🅢🅨🅢🅢🅞🅛🅤🅣🅘🅞🅝🅢'
+global.casterix = '🅢🅨🅢🅢🅞🅛🅤🅣🅘🅞🅝🅢'
 //watermark 
-global.packname = '*DAVID CYRIL*'
-global.author = 'QUEEN_ANITA-V1'
+global.packname = '🅢🅨🅢🅢🅞🅛🅤🅣🅘🅞🅝🅢'
+global.author = '🅢🅨🅢🅢🅞🅛🅤🅣🅘🅞🅝🅢'
 
 // cpanel 
-global.domain = 'https://' // deeceexxx
+global.domain = 'https://syssolutionsreload.mystrikingly.com/' // deeceexxx
 global.apikey2 = 'ptlc' // I love anita
 global.capikey2 = 'ptla' // david x anita 
 global.eggsnya = '15' // The id eggs used if the id is 5, just leave it, don't change it
